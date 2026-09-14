@@ -108,6 +108,4 @@ administrativo. No requieren API key porque no invocan al LLM real.
 
 ## Declaración de uso de IA
 
-Se utilizó Gemini como apoyo para estructurar la propuesta inicial del caso organizacional, así apoyar la redacción
-de la información buscada desde las páginas elegidas, y asi también tener una apoyo para generar algunos diagramas
-de arquitectura. 
+Se utilizó Gemini como apoyo para estructurar la propuesta inicial del caso organizacional, así como apoyar la redacción de la información buscada desde las páginas elegidas, y así también tener una ayuda para generar algunos diagramas de arquitectura.
