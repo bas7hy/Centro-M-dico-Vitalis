@@ -161,5 +161,4 @@ Para la Evaluación Parcial 2, se utilizó adicionalmente Claude (Anthropic)
 como apoyo para estructurar el código del agente funcional (módulos de
 memoria, herramientas y orquestación), el diagrama de orquestación y este
 README. Las decisiones de diseño, la lógica de negocio y la validación del
-funcionamiento fueron revisadas por el equipo. [Ajustar esta sección según el
-uso real dado por el equipo, tal como exige la pauta de la evaluación.]
+funcionamiento fueron revisadas por el equipo.
