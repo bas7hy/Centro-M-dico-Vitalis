@@ -1,9 +1,0 @@
-.env
-__pycache__/
-*.pyc
-chroma_db/
-.pytest_cache/
-docs/log_trazabilidad.csv
-memoria/*.db
-.venv/
-venv/
